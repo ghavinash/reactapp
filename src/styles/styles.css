@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: 40%;
+}
+input[type="text"] {
+    width: 80%;
+    margin : 0 auto;
+}
+
+.Container{
+    text-align: center;
+    background-color: #c5e4ec;
+    margin: 0 auto;
+    min-width: 60px;
+  }
