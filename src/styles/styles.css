@@ -6,8 +6,8 @@
 table{
     width: 40%;
 }
+
 input[type="text"] {
-    width: 80%;
     margin : 0 auto;
 }
 
@@ -16,4 +16,16 @@ input[type="text"] {
     background-color: #c5e4ec;
     margin: 0 auto;
     min-width: 60px;
-  }
+}
+
+#formset{
+    box-shadow: 2px 3px 3px 3px rgb(179, 180, 177);
+    border-radius: 10px;
+}
+
+#formset input{
+    margin-right: 20px;
+    padding: 10px 15px 10px 0px;
+    border-style: none;
+    text-align: center;
+}
